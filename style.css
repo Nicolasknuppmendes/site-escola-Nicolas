@@ -53,3 +53,18 @@ body{
         grid-template-columns: 25% 25% 25% 25%;
         
         }
+        .rodape{
+
+            background-color: black;
+            
+            text-align: center;
+            
+            }
+            
+            .rodape-imagem{
+            
+            height: 50px;
+            
+            padding: 12px 0;
+            
+            }
